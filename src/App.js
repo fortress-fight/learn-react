@@ -1,3 +1,10 @@
+/*
+ * @Description: 
+ * @Author: F-Stone
+ * @Date: 2021-11-16 10:48:47
+ * @LastEditTime: 2021-11-16 11:45:17
+ * @LastEditors: F-Stone
+ */
 import logo from './logo.svg';
 import './App.css';
 
@@ -15,7 +22,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React Day01
         </a>
       </header>
     </div>
